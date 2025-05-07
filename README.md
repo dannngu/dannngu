@@ -3,7 +3,11 @@
 </h1>
 
 <p align='center'>
-  A data scientist from Mexico learning every day.
+I'm a Data Science specialist with the ability to detect patterns where others only see numbers. Using tools like Python, SQL, and Scikit-Learn, I develop predictive models that go beyond simple forecasts, providing strategic insights and uncovering hidden business opportunities.
+
+Throughout my career, I've been dedicated to transforming data into practical and understandable solutions. It's not just about cleaning and processing information, but also turning it into clear graphics and analyses that facilitate informed decision-making. I enjoy making each result speak for itself, so that even those without a technical background can appreciate the true value of data.
+
+Currently, I'm looking to collaborate with teams and organizations that want to harness the potential of their information to drive growth and innovation. I'm committed to providing rigorous analysis, innovative ideas, and straightforward communication. If you're looking to transform your data into a strategic asset, I'd be happy to discuss how we can work together.
 </p>
 
 <p align='center'>
